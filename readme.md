@@ -26,20 +26,11 @@
 #### 대시보드
 ![image038](https://user-images.githubusercontent.com/49421143/159110160-305e0685-d299-4e16-b068-8ab389f45efc.png)
 
-#### 강의실 설정
-![image040](https://user-images.githubusercontent.com/49421143/159110161-acc95e82-42c5-4261-b1a2-5f7fbb29d0ec.png)
-
-#### 학생 대시보드
-![image042](https://user-images.githubusercontent.com/49421143/159110163-43068d34-feaf-486b-a637-b508e475d23c.png)
-
-#### 선생님 공지사항
+#### 공지 
 ![image044](https://user-images.githubusercontent.com/49421143/159110164-dce12d48-9a06-45c9-a646-4de700ebdb9e.png)
 
 #### 새로운 공지작성
 ![image046](https://user-images.githubusercontent.com/49421143/159110165-7d5771ec-b31f-449c-8eaf-fda429e5805f.png)
-
-#### 학생 공지사항
-![image048](https://user-images.githubusercontent.com/49421143/159110166-a8e69176-a0cd-48c0-8d63-a2a7d0a67a8f.png)
 
 #### 캘린더
 ![image050](https://user-images.githubusercontent.com/49421143/159110167-914c5649-cd20-4656-885c-fac5a280232c.png)
@@ -53,10 +44,10 @@
 ### Youtube 동영상 검색 
 ![image056](https://user-images.githubusercontent.com/49421143/159110170-7ea61f4b-9762-4b73-adb0-68053aec46e2.png)
 
-### Youtube 동영상 추가
+### Youtube 동영상 검색
 ![image058](https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png)
 
-### Playlist 관리
+### Youtube 동영상 추가
 ![image058](https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png)
 ![image060](https://user-images.githubusercontent.com/49421143/159110175-ef38756c-57cb-4ad5-a920-f6eddbefc43c.png)
 
