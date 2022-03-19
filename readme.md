@@ -41,14 +41,22 @@
 #### 학생 공지사항
 ![image048](https://user-images.githubusercontent.com/49421143/159110166-a8e69176-a0cd-48c0-8d63-a2a7d0a67a8f.png)
 
-#### 학생 공지사항
+#### 캘린더
 ![image050](https://user-images.githubusercontent.com/49421143/159110167-914c5649-cd20-4656-885c-fac5a280232c.png)
-![image052](https://user-images.githubusercontent.com/49421143/159110168-709c3ac9-c32e-44dd-8a7a-357cf7305b77.png)
+
+#### 강의컨텐츠
 ![image054](https://user-images.githubusercontent.com/49421143/159110169-4c38adad-77ec-42bf-90e2-23d75541df66.png)
+
+#### 강의컨텐츠 상세페이지
 ![image056](https://user-images.githubusercontent.com/49421143/159110170-7ea61f4b-9762-4b73-adb0-68053aec46e2.png)
 
-### Youtube 동영상 추가 
+### Youtube 동영상 검색 
 ![image056](https://user-images.githubusercontent.com/49421143/159110170-7ea61f4b-9762-4b73-adb0-68053aec46e2.png)
+
+### Youtube 동영상 추가
+![image058](https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png)
+
+### Playlist 관리
 ![image058](https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png)
 ![image060](https://user-images.githubusercontent.com/49421143/159110175-ef38756c-57cb-4ad5-a920-f6eddbefc43c.png)
 
@@ -56,13 +64,22 @@
 ![image062](https://user-images.githubusercontent.com/49421143/159110176-f2b7462a-3d7e-4215-aca6-47308925bce2.png)
 ![image064](https://user-images.githubusercontent.com/49421143/159110177-c197c7d0-a7a2-43e0-b935-c099bf3d0247.png)
 
-### 자동 출석 체크:
+### 선생님 출결/학습현황:
 ![image066](https://user-images.githubusercontent.com/49421143/159110179-cdf89078-09dd-4e8f-97bf-cc055c8df1e1.png)
+
+### Zoom 화상강의 csv파일 등록:
 ![image068](https://user-images.githubusercontent.com/49421143/159110180-304749d9-7a69-41c5-81c5-1bd96db6161b.png)
 
+### 학생 출석/학습현황
 ![image070](https://user-images.githubusercontent.com/49421143/159110181-29b44cd6-c909-4b2e-9f2b-edec78812028.png)
+
+### 구성원 관리
 ![image072](https://user-images.githubusercontent.com/49421143/159110182-7c8ce991-b1ff-4038-837b-00006382ecb7.png)
+
+### 강의실 학생 초대
 ![image074](https://user-images.githubusercontent.com/49421143/159110183-45a939e2-8a0f-4f1b-8b3b-1b93018bc59f.png)
+
+### 강의실 신청 현황
 ![image076](https://user-images.githubusercontent.com/49421143/159110185-c15e7baf-ec8e-4e89-b926-a2abf06e627a.png)
 
 ### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
