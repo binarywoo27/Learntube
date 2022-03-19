@@ -18,6 +18,9 @@
 
 ### Youtube 동영상 API 검색 및 동영상 짜깁기
 
+### 구현 화면 (전체):
+![image036](https://user-images.githubusercontent.com/49421143/159110158-0990e816-7cd7-4dff-8fdf-30929a67db06.png)
+
 
 ### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
 
