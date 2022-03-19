@@ -16,7 +16,23 @@
 ### 😎  제가 맡은 파트 구현 화면은 다음과 같습니다:
 <p> </p>
 
-### Youtube 동영상 API 검색 및 동영상 짜깁기
+## Youtube 동영상 API 검색 및 동영상 짜깁기 :
+
+### Youtube 동영상 검색
+![image058](https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png)
+
+### Youtube 동영상 추가
+![image060](https://user-images.githubusercontent.com/49421143/159110175-ef38756c-57cb-4ad5-a920-f6eddbefc43c.png)
+
+## 학생 초대 및 학생 관리 : 
+
+### 구성원 관리
+![image072](https://user-images.githubusercontent.com/49421143/159110182-7c8ce991-b1ff-4038-837b-00006382ecb7.png)
+
+학생초대 방법: 학생초대 버튼 클릭하여 (초대 링크 복사하기) 강의실에 추가하고자 하는 학생들에게 링크 공유!
+
+### 강의실 학생 초대 페이지 
+![image074](https://user-images.githubusercontent.com/49421143/159110183-45a939e2-8a0f-4f1b-8b3b-1b93018bc59f.png)
 
 ### 구현 화면 (전체):
 
@@ -29,9 +45,6 @@
 #### 공지 
 ![image044](https://user-images.githubusercontent.com/49421143/159110164-dce12d48-9a06-45c9-a646-4de700ebdb9e.png)
 
-#### 새로운 공지작성
-![image046](https://user-images.githubusercontent.com/49421143/159110165-7d5771ec-b31f-449c-8eaf-fda429e5805f.png)
-
 #### 캘린더
 ![image050](https://user-images.githubusercontent.com/49421143/159110167-914c5649-cd20-4656-885c-fac5a280232c.png)
 
@@ -41,17 +54,13 @@
 #### 강의컨텐츠 상세페이지
 ![image056](https://user-images.githubusercontent.com/49421143/159110170-7ea61f4b-9762-4b73-adb0-68053aec46e2.png)
 
-### Youtube 동영상 검색 
-![image056](https://user-images.githubusercontent.com/49421143/159110170-7ea61f4b-9762-4b73-adb0-68053aec46e2.png)
-
 ### Youtube 동영상 검색
 ![image058](https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png)
 
 ### Youtube 동영상 추가
-![image058](https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png)
 ![image060](https://user-images.githubusercontent.com/49421143/159110175-ef38756c-57cb-4ad5-a920-f6eddbefc43c.png)
 
-
+### 교육컨텐츠 (Playlist) 관리
 ![image062](https://user-images.githubusercontent.com/49421143/159110176-f2b7462a-3d7e-4215-aca6-47308925bce2.png)
 ![image064](https://user-images.githubusercontent.com/49421143/159110177-c197c7d0-a7a2-43e0-b935-c099bf3d0247.png)
 
@@ -67,10 +76,10 @@
 ### 구성원 관리
 ![image072](https://user-images.githubusercontent.com/49421143/159110182-7c8ce991-b1ff-4038-837b-00006382ecb7.png)
 
-### 강의실 학생 초대
+### 강의실 학생 초대 페이지 
 ![image074](https://user-images.githubusercontent.com/49421143/159110183-45a939e2-8a0f-4f1b-8b3b-1b93018bc59f.png)
 
-### 강의실 신청 현황
+### (학생) 강의실 신청 현황
 ![image076](https://user-images.githubusercontent.com/49421143/159110185-c15e7baf-ec8e-4e89-b926-a2abf06e627a.png)
 
 ### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
