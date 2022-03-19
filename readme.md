@@ -34,6 +34,10 @@
 ### (ii) 강의실 학생 초대 페이지 
 <img src = "https://user-images.githubusercontent.com/49421143/159110183-45a939e2-8a0f-4f1b-8b3b-1b93018bc59f.png" width="60%">
 
+## 3) 자동출결처리 기능 (기획 및 구현 방법 구체화를 맡았습니다) :
+< Zoom 화상강의 csv파일 등록 > <br>
+<img src = "https://user-images.githubusercontent.com/49421143/159110180-304749d9-7a69-41c5-81c5-1bd96db6161b.png" width="60%">
+
 ### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
 
 https://github.com/OnepageLMS/youtubePlaylist.git
