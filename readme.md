@@ -16,25 +16,30 @@
 ### 😎  제가 맡은 파트 구현 화면은 다음과 같습니다:
 <p> </p>
 
-## Youtube 동영상 API 검색 및 동영상 짜깁기 :
+## 1) Youtube 동영상 API 검색 및 동영상 짜깁기 :
 
-### Youtube 동영상 검색
+### (i) Youtube 동영상 검색
 <img src = "https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png" width="60%">
 
-### Youtube 동영상 추가
+### (ii) Youtube 동영상 추가
 <img src = "https://user-images.githubusercontent.com/49421143/159110175-ef38756c-57cb-4ad5-a920-f6eddbefc43c.png" width="60%">
 
-## 학생 초대 및 학생 관리 : 
+## 2) 학생 초대 및 학생 관리 : 
 
-### 구성원 관리
+### (i) 구성원 관리
 <img src = "https://user-images.githubusercontent.com/49421143/159110182-7c8ce991-b1ff-4038-837b-00006382ecb7.png" width="60%">
 
 학생초대 방법: 학생초대 버튼 클릭하여 (초대 링크 복사하기) 강의실에 추가하고자 하는 학생들에게 링크 공유!
 
-### 강의실 학생 초대 페이지 
+### (ii) 강의실 학생 초대 페이지 
 <img src = "https://user-images.githubusercontent.com/49421143/159110183-45a939e2-8a0f-4f1b-8b3b-1b93018bc59f.png" width="60%">
 
-### 구현 화면 (전체):
+### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
+
+https://github.com/OnepageLMS/youtubePlaylist.git
+
+<details markdown="1">
+<summary> <h1> 구현 화면 (전체): </h1> </summary>
 
 #### 로그인
 <img src = "https://user-images.githubusercontent.com/49421143/159110158-0990e816-7cd7-4dff-8fdf-30929a67db06.png" width="60%">
@@ -82,8 +87,7 @@
 ### (학생) 강의실 신청 현황
 <img src = "https://user-images.githubusercontent.com/49421143/159110185-c15e7baf-ec8e-4e89-b926-a2abf06e627a.png" width="60%">
 
-### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
+</details>
 
-https://github.com/OnepageLMS/youtubePlaylist.git
 
 
