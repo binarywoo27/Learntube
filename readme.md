@@ -27,7 +27,7 @@
 ## 학생 초대 및 학생 관리 : 
 
 ### 구성원 관리
-![image072](https://user-images.githubusercontent.com/49421143/159110182-7c8ce991-b1ff-4038-837b-00006382ecb7.png)
+![image072](https://user-images.githubusercontent.com/49421143/159110182-7c8ce991-b1ff-4038-837b-00006382ecb7.png){: width="300" height="300"}
 
 학생초대 방법: 학생초대 버튼 클릭하여 (초대 링크 복사하기) 강의실에 추가하고자 하는 학생들에게 링크 공유!
 
