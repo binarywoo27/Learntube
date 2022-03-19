@@ -32,10 +32,16 @@
 #### 학생 대시보드
 ![image042](https://user-images.githubusercontent.com/49421143/159110163-43068d34-feaf-486b-a637-b508e475d23c.png)
 
-#### 선생님 
+#### 선생님 공지사항
 ![image044](https://user-images.githubusercontent.com/49421143/159110164-dce12d48-9a06-45c9-a646-4de700ebdb9e.png)
+
+#### 새로운 공지작성
 ![image046](https://user-images.githubusercontent.com/49421143/159110165-7d5771ec-b31f-449c-8eaf-fda429e5805f.png)
+
+#### 학생 공지사항
 ![image048](https://user-images.githubusercontent.com/49421143/159110166-a8e69176-a0cd-48c0-8d63-a2a7d0a67a8f.png)
+
+#### 학생 공지사항
 ![image050](https://user-images.githubusercontent.com/49421143/159110167-914c5649-cd20-4656-885c-fac5a280232c.png)
 ![image052](https://user-images.githubusercontent.com/49421143/159110168-709c3ac9-c32e-44dd-8a7a-357cf7305b77.png)
 ![image054](https://user-images.githubusercontent.com/49421143/159110169-4c38adad-77ec-42bf-90e2-23d75541df66.png)
