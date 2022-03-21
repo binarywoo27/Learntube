@@ -29,7 +29,7 @@
 ### (ii) Youtube 동영상 추가
 <img src = "https://user-images.githubusercontent.com/49421143/159110175-ef38756c-57cb-4ad5-a920-f6eddbefc43c.png" width="60%">
 
-🔍 장바구니에 담긴 여러 동영상들을 한꺼번에 저장하여 한 학습컨텐츠 강좌로 만들기
+🔍 장바구니에 담긴 여러 동영상들을 한꺼번에 저장하여 한 학습컨텐츠 강좌(Playlist)로 만들기
 
 ## 2) 학생 초대 및 학생 관리 : 
 
@@ -41,8 +41,14 @@
 ### (ii) 강의실 학생 초대 페이지 
 <img src = "https://user-images.githubusercontent.com/49421143/159110183-45a939e2-8a0f-4f1b-8b3b-1b93018bc59f.png" width="60%">
 
+🔍 초대된 학생에게 보여지는 페이지 > 여기서 학생은 '수강신청하기' 버튼을 통해 강의 신청 가능!
+
 ## 3) 자동출결처리 기능 (기획 및 구현 방법 구체화를 맡았습니다) :
 < Zoom 화상강의 csv파일 등록 > <br>
+<img src = "https://user-images.githubusercontent.com/49421143/159110180-304749d9-7a69-41c5-81c5-1bd96db6161b.png" width="60%">
+
+🔍 출결 인정 시작 시간과 끝 시간을 설정하고 Zoom CSV 파일 (온라인 화상 강의 참여자 기록)을 업로드하여 자동 출결 처리 가능!
+
 <img src = "https://user-images.githubusercontent.com/49421143/159110180-304749d9-7a69-41c5-81c5-1bd96db6161b.png" width="60%">
 
 ### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
