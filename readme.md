@@ -47,9 +47,7 @@
 < Zoom 화상강의 csv파일 등록 > <br>
 <img src = "https://user-images.githubusercontent.com/49421143/159110180-304749d9-7a69-41c5-81c5-1bd96db6161b.png" width="60%">
 
-🔍 출결 인정 시작 시간과 끝 시간을 설정하고 Zoom CSV 파일 (온라인 화상 강의 참여자 기록)을 업로드하여 자동 출결 처리 가능!
-
-<img src = "https://user-images.githubusercontent.com/49421143/159110180-304749d9-7a69-41c5-81c5-1bd96db6161b.png" width="60%">
+🔍 출결 인정 시작 시간과 끝 시간을 설정하고 Zoom CSV 파일 (온라인 화상 강의 참여자 기록)을 업로드하여 차시별 자동 출결 처리 가능! </br> 🎉 (대략 3분~5분의 업무시간을 단 30초 이하로 단축!!)
 
 ### 캡스톤 프로젝트 (졸업 작품) 실제 레포지토리는 아래와 같습니다!
 
