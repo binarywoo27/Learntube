@@ -1,6 +1,6 @@
 ### 🎤 서비스 소개: (졸업작품: '21년 2학기 캡스톤 디자인 프로젝트)
 
-## 서비스명: Learntube <br/>
+서비스명: Learntube <br/>
 
 누구나 쉽게 온라인 학습 시스템(LMS)를 활용하고, <br/>
 다양한 양질의 Youtube 영상들을 교육용 컨텐츠로 활용할 수 있고, <br/>
@@ -24,15 +24,19 @@
 ### (i) Youtube 동영상 검색
 <img src = "https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png" width="60%">
 
+🔍 동영상 검색 후 선택 (왼쪽 목록) > 선택된 동영상 제목, 태그, 재생구간 설정 후 장바구니에 추가하기
+
 ### (ii) Youtube 동영상 추가
 <img src = "https://user-images.githubusercontent.com/49421143/159110175-ef38756c-57cb-4ad5-a920-f6eddbefc43c.png" width="60%">
+
+🔍 장바구니에 담긴 여러 동영상들을 한꺼번에 저장하여 한 학습컨텐츠 강좌로 만들기
 
 ## 2) 학생 초대 및 학생 관리 : 
 
 ### (i) 구성원 관리
 <img src = "https://user-images.githubusercontent.com/49421143/159110182-7c8ce991-b1ff-4038-837b-00006382ecb7.png" width="60%">
 
-학생초대 방법: 학생초대 버튼 클릭하여 (초대 링크 복사하기) 강의실에 추가하고자 하는 학생들에게 링크 공유!
+🔍 학생초대 방법: 학생초대 버튼 클릭하여 (초대 링크 복사하기) 강의실에 추가하고자 하는 학생들에게 링크 공유!
 
 ### (ii) 강의실 학생 초대 페이지 
 <img src = "https://user-images.githubusercontent.com/49421143/159110183-45a939e2-8a0f-4f1b-8b3b-1b93018bc59f.png" width="60%">
