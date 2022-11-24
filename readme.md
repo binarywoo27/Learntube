@@ -16,6 +16,12 @@
 이진우 : ‘YouTube 동영상 강의컨텐츠 제작 및 관리’ 및 ‘구성원 초대 및 관리’<br/>
 조하영 : '학생의 강의시청 기록을 통한 출결관리' 및 'Zoom csv파일을 통한 자동 출결관리' <br/>
 
+### 2021년 2학기 캡스톤 페스티벌 Learntube 포스터
+<details markdown="1">
+<summary> 포스터 이미지 보기!!  ←  클릭!! </summary>
+<img src="https://user-images.githubusercontent.com/49421143/203787618-1a1ea056-eb28-46f4-a53a-d48a96f2acdf.jpg" width="60%"> 
+</details>
+
 ### 😎  제가 맡은 파트 구현 화면은 다음과 같습니다:
 <p> </p>
 
@@ -53,7 +59,7 @@
 
 https://github.com/OnepageLMS/youtubePlaylist.git
 
-<details markdown="1">
+<details markdown="2">
 <summary> <h1> 구현 화면 (전체): </h1> </summary>
 
 #### 로그인
