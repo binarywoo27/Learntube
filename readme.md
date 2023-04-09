@@ -36,7 +36,7 @@ MariaDB
 ### 😎  제가 맡은 파트 구현 화면은 다음과 같습니다:
 <p> </p>
 
-## 1) Youtube 동영상 API 검색 및 동영상 짜깁기 :
+## 1) Youtube 동영상 검색 및 동영상 짜깁기 :
 
 ### (i) Youtube 동영상 검색
 <img src = "https://user-images.githubusercontent.com/49421143/159110173-69c99255-2741-450d-8f72-781bcb307e26.png" width="60%">
