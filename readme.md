@@ -6,7 +6,7 @@
 다양한 양질의 Youtube 영상들을 교육용 컨텐츠로 활용할 수 있고, <br/>
 자동 출결을 처리해주는 LMS 플랫폼입니다. 
 
-웹 사이트 링크: <a href="https://learntube.kr"> Learntube.kr </a>
+<!-- 웹 사이트 링크: <a href="https://learntube.kr"> Learntube.kr </a> -->
 
 ### 📅 개발기간:
 <p> 2021.07 ~ 2021.12 </p>
